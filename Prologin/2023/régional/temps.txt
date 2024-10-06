@@ -1,0 +1,7 @@
+Niveau 0: 30s
+Niveau 1: 5 min
+Niveau 2: 10 min
+Niveau 3: 30 min
+Niveau 4: 1h
+Niveau 5: 1h30 min
+total: 3h 15
